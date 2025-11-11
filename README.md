@@ -40,7 +40,6 @@ It allows users to convert between various measurement units — including **Len
 4. Open your browser at http://localhost:5173 (default Vite port)
 
 ## 📦 Folder Structure  
-\`\`\`
 
 UnitConverter/
  ├── Backend/       
