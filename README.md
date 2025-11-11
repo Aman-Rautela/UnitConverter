@@ -18,35 +18,35 @@ It allows users to convert between various measurement units — including **Len
 
 ## ⚙️ How to Run Locally  
 1. Clone the repo  
-   ```bash
+   \`\`\`bash
    git clone https://github.com/Aman-Rautela/UnitConverter.git
    cd UnitConverter
-   ```
+   \`\`\`
 
 2. Setup Backend  
-   ```bash
+   \`\`\`bash
    cd Backend
    npm install
    npm start
-   ```
+   \`\`\`
 
 3. Setup Frontend  
-   ```bash
+   \`\`\`bash
    cd ../Frontend
    npm install
    npm run dev
-   ```
+   \`\`\`
 
 4. Open your browser at http://localhost:5173 (default Vite port)
 
 ## 📦 Folder Structure  
-```
+\`\`\`
 UnitConverter/
  ├── Backend/       # Express API
  ├── Frontend/      # React UI
  └── README.md
-```
+\`\`\`
 
+---
 
-🗺️ **Idea Source:** [roadmap.sh](https://roadmap.sh/projects/unit-converter) 🧭  
- /
+**Inspiration:** [🧭](https://roadmap.sh/projects/unit-converter)
